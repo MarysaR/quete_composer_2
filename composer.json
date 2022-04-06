@@ -1,0 +1,16 @@
+{
+    "name": "wcs/quetecomp2",
+    "description": "Quete composer 2",
+    "autoload": {
+        "psr-4": {
+            "Wcs\\Quetecomp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marysa",
+            "email": "regentmarysapro@gmail.com"
+        }
+    ],
+    "require": {}
+}
