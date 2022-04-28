@@ -3,7 +3,7 @@
     "description": "Quete composer 2",
     "autoload": {
         "psr-4": {
-            "Wcs\\Quetecomp2\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
